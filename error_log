@@ -1,0 +1,6 @@
+[31-Aug-2020 14:03:00 UTC] PHP Warning:  require_once(/home/taclarco/public_html/wp-load.php): failed to open stream: No such file or directory in /home/taclarco/public_html/wp-blog-header.php on line 13
+[31-Aug-2020 14:03:00 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/taclarco/public_html/wp-load.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/taclarco/public_html/wp-blog-header.php on line 13
+[31-Aug-2020 14:03:05 UTC] PHP Warning:  require_once(/home/taclarco/public_html/wp-load.php): failed to open stream: No such file or directory in /home/taclarco/public_html/wp-blog-header.php on line 13
+[31-Aug-2020 14:03:05 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/taclarco/public_html/wp-load.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/taclarco/public_html/wp-blog-header.php on line 13
+[31-Aug-2020 14:03:06 UTC] PHP Warning:  require_once(/home/taclarco/public_html/wp-load.php): failed to open stream: No such file or directory in /home/taclarco/public_html/wp-blog-header.php on line 13
+[31-Aug-2020 14:03:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/taclarco/public_html/wp-load.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/taclarco/public_html/wp-blog-header.php on line 13
